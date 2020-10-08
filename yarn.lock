@@ -347,15 +347,16 @@
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.2.tgz#26520bf09abe4a5644cd5414e37125a8954241dd"
   integrity sha512-tsAQNx32a8CoFhjhijUIhI4kccIAgmGhy8LZMZgGfmXcpMbPRUqn5LWmgRttILi6yeGmBJd2xsPkFMs0PzgPCw==
 
-"@kalisio/feathers-distributed@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@kalisio/feathers-distributed/-/feathers-distributed-1.0.3.tgz#936788dba5c6739ba477d563902ea0d058adaf11"
-  integrity sha512-jcwFp9zk3reWLwuGuscmf8hkFxe6JIOtGb5uZHc2f0LeRNAdWBt4hKLNyqEEiCj6w0qhyETEMDHdY7svPUpCXw==
+"@kalisio/feathers-distributed@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@kalisio/feathers-distributed/-/feathers-distributed-1.0.4.tgz#53f9ab1377bd440e3d5f7c76f29d9792a427e967"
+  integrity sha512-5lPI3OtYnj1WOVfAESFPAcagseSamFfrHzGWU42Z6viMkJ+ycKxo8XkxweRjBkF0OQYwWzp0nXam7bLaAfLwzg==
   dependencies:
     "@feathersjs/commons" "^1.4.0"
     "@feathersjs/errors" "^3.3.0"
     cote "^1.0.0"
     debug "^4.1.0"
+    uuid "^8.2.0"
 
 "@kalisio/geo-pixel-stream@https://github.com/kalisio/geo-pixel-stream":
   version "1.0.0"
@@ -4833,9 +4834,9 @@ passport-oauth2@1.x.x, passport-oauth2@^1.4.0:
     uid2 "0.0.x"
     utils-merge "1.x.x"
 
-"passport-openidconnect@git+https://github.com/kalisio/passport-openidconnect.git":
+"passport-openidconnect@https://github.com/kalisio/passport-openidconnect":
   version "0.0.2"
-  resolved "git+https://github.com/kalisio/passport-openidconnect.git#82d9f0653334a0538b2c3dc2a8119eefc2eca237"
+  resolved "https://github.com/kalisio/passport-openidconnect#82d9f0653334a0538b2c3dc2a8119eefc2eca237"
   dependencies:
     oauth "0.9.x"
     passport-strategy "1.x.x"
@@ -6315,6 +6316,11 @@ uuid@^3.3.3:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.4.0.tgz#b23e4358afa8a202fe7a100af1f5f883f02007ee"
   integrity sha512-HjSDRw6gZE5JMggctHBcjVak08+KEVhSIiDzFnT9S9aegmp85S/bReBVTb4QTFaRNptJ9kuYaNhnbNEOkbKb/A==
+
+uuid@^8.2.0:
+  version "8.3.1"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.1.tgz#2ba2e6ca000da60fce5a196954ab241131e05a31"
+  integrity sha512-FOmRr+FmWEIG8uhZv6C2bTgEVXsHk08kE7mPlrBbEe+c3r9pjceVPgupIfNIhc4yx55H69OXANrUaSuu9eInKg==
 
 v8flags@^2.0.10:
   version "2.1.1"
