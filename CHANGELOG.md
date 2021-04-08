@@ -1,12 +1,28 @@
 # Changelog
 
-## [v1.3.0](https://github.com/weacast/weacast-api/tree/v1.3.0) (2020-09-21)
+## [v1.4.0](https://github.com/weacast/weacast-api/tree/v1.4.0) (2021-04-08)
 
-[Full Changelog](https://github.com/weacast/weacast-api/compare/v1.2.2...v1.3.0)
+[Full Changelog](https://github.com/weacast/weacast-api/compare/v1.2.2...v1.4.0)
+
+**Merged pull requests:**
+
+- Bump y18n from 4.0.0 to 4.0.1 [\#42](https://github.com/weacast/weacast-api/pull/42) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump ini from 1.3.5 to 1.3.7 [\#40](https://github.com/weacast/weacast-api/pull/40) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump lodash from 4.17.4 to 4.17.19 [\#37](https://github.com/weacast/weacast-api/pull/37) ([dependabot[bot]](https://github.com/apps/dependabot))
+- \[Security\] Bump debug from 2.6.1 to 2.6.9 [\#34](https://github.com/weacast/weacast-api/pull/34) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- \[Security\] Bump fstream from 1.0.11 to 1.0.12 [\#33](https://github.com/weacast/weacast-api/pull/33) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- \[Security\] Bump stringstream from 0.0.5 to 0.0.6 [\#31](https://github.com/weacast/weacast-api/pull/31) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- \[Security\] Bump tough-cookie from 2.3.2 to 2.3.4 [\#29](https://github.com/weacast/weacast-api/pull/29) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- \[Security\] Bump lodash.merge from 4.6.1 to 4.6.2 [\#27](https://github.com/weacast/weacast-api/pull/27) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
+- \[Security\] Bump extend from 3.0.1 to 3.0.2 [\#23](https://github.com/weacast/weacast-api/pull/23) ([dependabot-preview[bot]](https://github.com/apps/dependabot-preview))
 
 ## [v1.2.2](https://github.com/weacast/weacast-api/tree/v1.2.2) (2020-10-08)
 
-[Full Changelog](https://github.com/weacast/weacast-api/compare/v1.2.1...v1.2.2)
+[Full Changelog](https://github.com/weacast/weacast-api/compare/v1.3.0...v1.2.2)
+
+## [v1.3.0](https://github.com/weacast/weacast-api/tree/v1.3.0) (2020-09-21)
+
+[Full Changelog](https://github.com/weacast/weacast-api/compare/v1.2.1...v1.3.0)
 
 ## [v1.2.1](https://github.com/weacast/weacast-api/tree/v1.2.1) (2020-05-15)
 
