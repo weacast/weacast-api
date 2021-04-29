@@ -6338,10 +6338,10 @@ verror@1.3.6:
   dependencies:
     extsprintf "1.0.2"
 
-weacast-alert@^1.3.0:
-  version "1.3.0"
-  resolved "https://registry.yarnpkg.com/weacast-alert/-/weacast-alert-1.3.0.tgz#eb10730b0335aaa0ab81523d6964401e36e6f452"
-  integrity sha512-SuxHhEpPJOpMJoIPTXXipjaCVVfeZS7Mtv7UYE6sMgGOa5vtkD0yWm/mPddKuxBr9dnrGV+4gumYEQvSkQrmmg==
+weacast-alert@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/weacast-alert/-/weacast-alert-1.3.1.tgz#eac71dc35fda775008bcbef6bc4bb44de1a0c08b"
+  integrity sha512-6xm40Ut2aFYYAuMHh0BSDhF++U6uqM3eJzbhl+JOWrsa2yH31q36Loc/Y5s37Bzrwiub49lGbooSr1E5PMpUGQ==
   dependencies:
     cron "^1.4.1"
     debug "^3.1.0"
@@ -6350,33 +6350,33 @@ weacast-alert@^1.3.0:
     lodash "^4.17.4"
     moment "^2.18.1"
     sift "^8.5.0"
-    weacast-core "^1.4.0"
-    weacast-probe "^1.4.0"
+    weacast-core "^1.4.1"
+    weacast-probe "^1.4.1"
     winston "^2.3.1"
 
-weacast-arome@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/weacast-arome/-/weacast-arome-1.4.0.tgz#5fe70d6ff584f51ab04512d753659cf57d9c43f1"
-  integrity sha512-GnffESOp61cblsk9zAMtKXYh/VSDJSV/MxwJshblGBIZOk9klRr9tns6WV2TF44ILaKywNYNMKnNvTFVw0VPWQ==
+weacast-arome@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/weacast-arome/-/weacast-arome-1.4.1.tgz#91e1d296465c79485692868835df4f7fbc0b4ef1"
+  integrity sha512-6tTLgRnkKC/M6b355uQogilu8A1AOnwEFVA9oRQ2ZpnGF2PmP1B24cjJdOKefjHs65Kc6kf2oLW28yXKHIgvkg==
   dependencies:
-    weacast-arpege "^1.4.0"
-    weacast-core "^1.4.0"
+    weacast-arpege "^1.4.1"
+    weacast-core "^1.4.1"
 
-weacast-arpege@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/weacast-arpege/-/weacast-arpege-1.4.0.tgz#7f6882e12faa42a81035b718bce3d0089a39881d"
-  integrity sha512-QH/A1T7TuyCuWwJ5OQpUwHKopXu53r4TxIFqGy5J8JmknF2G1IA5k0dKtAJaw1qT+RfwKkUPVWydvj3hP3drng==
+weacast-arpege@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/weacast-arpege/-/weacast-arpege-1.4.1.tgz#313e031e6a988f5736a3c00a008e3908ec35f422"
+  integrity sha512-526hfpOoS+RXyXHFeIw8C8UXzDWNWqYdhNvmqcUgCLWpE68ZOMN3Siuq7vAGngQwHVJr2MJb2mpTFvdZLCWeCQ==
   dependencies:
     debug "^3.1.0"
     fs-extra "^4.0.2"
-    weacast-core "^1.4.0"
+    weacast-core "^1.4.1"
     weacast-gtiff2json "^1.1.2"
     winston "^2.3.1"
 
-weacast-core@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/weacast-core/-/weacast-core-1.4.0.tgz#dc287debf3f74c59897d0ca7b1867e3094f6a29d"
-  integrity sha512-qHtfjhXMiyuQtLtTaz8YIDNH3+Nn+UG5ghE3f3yGSJQOUelwSCiLO+2QS6gvpuNwpW9KytJjOr41dX+7FMfzMw==
+weacast-core@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/weacast-core/-/weacast-core-1.4.1.tgz#499da1d867d230fc524a70f0af8d0c2ff293a20a"
+  integrity sha512-wq2H4w0rQqM7v8Og0EkoGTxsnkNwHt43ZBT0s+U3e1nv2fMudvIq4ZDBbDL4g1fPXommIvO9noDrZ1pbPyIZmQ==
   dependencies:
     "@feathersjs/authentication" "^2.1.16"
     "@feathersjs/authentication-jwt" "^2.0.10"
@@ -6411,15 +6411,15 @@ weacast-core@^1.4.0:
     winston "^2.3.1"
     winston-daily-rotate-file "^1.7.2"
 
-weacast-gfs@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/weacast-gfs/-/weacast-gfs-1.5.0.tgz#536f06437cf35ebd1bf5e47d7424345a0df00a52"
-  integrity sha512-qjjZOZ6BRoTHGoN5v16gd+MPVRqpE1Xiax2j33k7/BgkQlg8Q3VJPqrvOCObfFHx3mB1hiA3eRi0dNb71IqnRw==
+weacast-gfs@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/weacast-gfs/-/weacast-gfs-1.5.1.tgz#1f48ce8e48ff9a5893d4cf8c7e0df1d1b2e6b0f1"
+  integrity sha512-nvaPWaa0BcAlF1YLB8vpMBOz3unMH6GaY7qf+ry0OKzRaCzAkrUsBVUi5zUNR789Pprfv+liPKW1lWhFi3gjUQ==
   dependencies:
     "@feathersjs/errors" "^3.3.6"
     debug "^3.1.0"
     fs-extra "^4.0.2"
-    weacast-core "^1.4.0"
+    weacast-core "^1.4.1"
     weacast-grib2json "^1.0.2"
     winston "^2.3.1"
 
@@ -6439,10 +6439,10 @@ weacast-gtiff2json@^1.1.2:
     "@kalisio/geo-pixel-stream" "https://github.com/kalisio/geo-pixel-stream"
     commander "^2.9.0"
 
-weacast-probe@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/weacast-probe/-/weacast-probe-1.4.0.tgz#b585ce7c43eca3bc6df67ce6dd225d29b836721d"
-  integrity sha512-vH5umYniupyvmeZMs79d0cdP8IIAGWB3Zmq15ukp9jXqTudqbw1EqKx8tRCTtgNj4vKh/+9W7OVwbb1urChBkA==
+weacast-probe@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/weacast-probe/-/weacast-probe-1.4.1.tgz#bd4acfd097e827c775c3297990425c5ae1259194"
+  integrity sha512-ZuCyjzFJrp53WQkHknbxQ/7/qqUvnltxzh+PPL+Kl12w/FQouYPaXJQk+j5WPJuvVxc4KdNguqDRNKmXDGPDRg==
   dependencies:
     "@feathersjs/errors" "^3.3.6"
     debug "^3.1.0"
@@ -6453,7 +6453,7 @@ weacast-probe@^1.4.0:
     moment "^2.18.1"
     mongodb "^3.6.2"
     mubsub "^1.4.0"
-    weacast-core "^1.4.0"
+    weacast-core "^1.4.1"
     winston "^2.3.1"
 
 webfinger@0.4.x:

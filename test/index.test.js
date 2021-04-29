@@ -22,7 +22,7 @@ describe('weacast-api', () => {
     await server.run()
   })
   // Let enough time to process
-  .timeout(20000)
+  .timeout(60000)
 
   it('registers the users service', () => {
     let service = server.app.getService('users')
