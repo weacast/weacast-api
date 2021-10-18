@@ -6361,18 +6361,18 @@ weacast-alert@^1.3.1:
     weacast-probe "^1.4.1"
     winston "^2.3.1"
 
-weacast-arome@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/weacast-arome/-/weacast-arome-1.4.1.tgz#91e1d296465c79485692868835df4f7fbc0b4ef1"
-  integrity sha512-6tTLgRnkKC/M6b355uQogilu8A1AOnwEFVA9oRQ2ZpnGF2PmP1B24cjJdOKefjHs65Kc6kf2oLW28yXKHIgvkg==
+weacast-arome@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/weacast-arome/-/weacast-arome-1.5.0.tgz#03b969dd9515d6974b4246bc0f9c699ec66f0d96"
+  integrity sha512-ghRdI+MZQ1qNOrWIv3qbzC2k5VIrsUDigJMXH/QNsv40OiNLtettV8hptFxMzi3aYwjTff3hYoboMY+1TODhJg==
   dependencies:
-    weacast-arpege "^1.4.1"
+    weacast-arpege "^1.5.0"
     weacast-core "^1.4.1"
 
-weacast-arpege@^1.4.1:
-  version "1.4.1"
-  resolved "https://registry.yarnpkg.com/weacast-arpege/-/weacast-arpege-1.4.1.tgz#313e031e6a988f5736a3c00a008e3908ec35f422"
-  integrity sha512-526hfpOoS+RXyXHFeIw8C8UXzDWNWqYdhNvmqcUgCLWpE68ZOMN3Siuq7vAGngQwHVJr2MJb2mpTFvdZLCWeCQ==
+weacast-arpege@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/weacast-arpege/-/weacast-arpege-1.5.0.tgz#9b3018fe545bb4f47757b28e7936e767a912afd2"
+  integrity sha512-4FvlHLDXXIzCOHEQ8qaq/uJUgAQOEvzFsCM3M1wPbOLQVVA4LJyeYajha3iyDCA9KSNGmjMbYdoqDcSLzhBPnQ==
   dependencies:
     debug "^3.1.0"
     fs-extra "^4.0.2"
