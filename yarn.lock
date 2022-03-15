@@ -4844,7 +4844,6 @@ passport-oauth2@1.x.x, passport-oauth2@^1.4.0:
 
 "passport-openidconnect@https://github.com/kalisio/passport-openidconnect":
   version "0.0.2"
-  uid "82d9f0653334a0538b2c3dc2a8119eefc2eca237"
   resolved "https://github.com/kalisio/passport-openidconnect#82d9f0653334a0538b2c3dc2a8119eefc2eca237"
   dependencies:
     oauth "0.9.x"
@@ -6346,10 +6345,10 @@ verror@1.3.6:
   dependencies:
     extsprintf "1.0.2"
 
-weacast-alert@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/weacast-alert/-/weacast-alert-1.4.0.tgz#08e821e2e643b4bb5af5003f087315a194274e98"
-  integrity sha512-04PDONSX4UETEpTY0y3hiW3SPxQWrN1sisyHyP26JBP9GTCpuLhHm3uH40RZxAqBCLE6qJ0LacGBwoAuQyTgXw==
+weacast-alert@^1.4.1:
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/weacast-alert/-/weacast-alert-1.4.1.tgz#830f44ed52d382d4390d542495111bf6984af424"
+  integrity sha512-cDpAnTqB96DY749oJ8pHtD4qxUYr5Z09CMR3ej3UaEDwQe6Vhtx8emhNYaGKNOvPnRHJPhFDswoYsE0XCr+YLg==
   dependencies:
     cron "^1.4.1"
     debug "^3.1.0"
@@ -6359,7 +6358,7 @@ weacast-alert@^1.4.0:
     moment "^2.18.1"
     sift "^8.5.0"
     weacast-core "^1.5.0"
-    weacast-probe "^1.5.0"
+    weacast-probe "^1.5.1"
     winston "^2.3.1"
 
 weacast-arome@^1.6.0:
@@ -6447,10 +6446,10 @@ weacast-gtiff2json@^1.1.2:
     "@kalisio/geo-pixel-stream" "https://github.com/kalisio/geo-pixel-stream"
     commander "^2.9.0"
 
-weacast-probe@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/weacast-probe/-/weacast-probe-1.5.0.tgz#5b606c4a65827acf63ae078ac3e9cc7692186641"
-  integrity sha512-DmBGo9o7yPEMMDUIhKoGEqh6mp+xzy32Zx/zk3iubz/l8OehzkYmKLuehBIT1VY5eDQuiGSzBczdilUqYYdf/A==
+weacast-probe@^1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/weacast-probe/-/weacast-probe-1.5.1.tgz#3359977a156afa7ec7ffe81af82913f451c19614"
+  integrity sha512-0q0Xn4jeYPN/n28/22rPjV0b/eNk2/l0N3J+ItKmVzSS7DUmphIkrmpc+bI12S5vqNPlkNKdfQKZGbvdQ/T9bw==
   dependencies:
     "@feathersjs/errors" "^3.3.6"
     debug "^3.1.0"
