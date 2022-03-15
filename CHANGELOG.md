@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.6.2](https://github.com/weacast/weacast-api/tree/v1.6.2) (2022-03-15)
+
+[Full Changelog](https://github.com/weacast/weacast-api/compare/v1.6.1...v1.6.2)
+
+**Merged pull requests:**
+
+- Bump pathval from 1.1.0 to 1.1.1 [\#52](https://github.com/weacast/weacast-api/pull/52) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.6.1](https://github.com/weacast/weacast-api/tree/v1.6.1) (2022-02-02)
 
 [Full Changelog](https://github.com/weacast/weacast-api/compare/v1.6.0...v1.6.1)
@@ -22,6 +30,7 @@
 
 **Merged pull requests:**
 
+- Bump path-parse from 1.0.6 to 1.0.7 [\#45](https://github.com/weacast/weacast-api/pull/45) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump socket.io-parser from 3.3.0 to 3.3.2 [\#44](https://github.com/weacast/weacast-api/pull/44) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump lodash from 4.17.19 to 4.17.21 [\#43](https://github.com/weacast/weacast-api/pull/43) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -44,7 +53,6 @@
 
 **Merged pull requests:**
 
-- Bump path-parse from 1.0.6 to 1.0.7 [\#45](https://github.com/weacast/weacast-api/pull/45) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump y18n from 4.0.0 to 4.0.1 [\#42](https://github.com/weacast/weacast-api/pull/42) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump ini from 1.3.5 to 1.3.7 [\#40](https://github.com/weacast/weacast-api/pull/40) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump lodash from 4.17.4 to 4.17.19 [\#37](https://github.com/weacast/weacast-api/pull/37) ([dependabot[bot]](https://github.com/apps/dependabot))
